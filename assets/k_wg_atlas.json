@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"уст1.jpg":
+{
+	"frame": {"x":0,"y":0,"w":1078,"h":722},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1078,"h":722},
+	"sourceSize": {"w":1078,"h":722}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "k_wg_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
